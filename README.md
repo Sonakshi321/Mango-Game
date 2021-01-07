@@ -1,1 +1,2 @@
-# Mango-Game
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
